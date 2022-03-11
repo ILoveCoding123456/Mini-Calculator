@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    background-color: coral;
+}
+h1{
+    font-size: larger;
+    font-family: cursive;
+    color: aquamarine;
+}
+div{
+    background-color: chartreuse;
+    font-family: fantasy;
+    padding: 6px;
+    font-size: 30px;
+}
+#Fn, #Sn{
+    text-align: center;
+    font-size: 30px;
+}
+.btn{
+    font-family: sans-serif;
+    color: aqua;
+    background-color: blueviolet;
+    padding: 20px;
+    font-size: 30px;
+}
